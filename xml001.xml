@@ -1,1 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<alumno>
+    <nombre>Brandon Rogerio</nombre>
+    <apellidos>Aguirre Mendoza</apellidos>
+    <carrera generacion="2016">ITI</carrera>
+    <matricula>E17020184</matricula>
+</alumno>
